@@ -66,30 +66,42 @@
 ---
 
 
+
+---
+
+
 > Practice kana online 
 
-- [ ] [Practice ](https://practice-japanese.com/hiragana-reading-practice/)
-- [ ] [Practice 1](https://hirakana.com/)
-- [ ] [Practice 2](https://readkana.com/)
-- [ ] [Writings practice](https://characterpractice.com/japanese/katakana/?cat=base&row=6&char=3)
+- [Practice ](https://practice-japanese.com/hiragana-reading-practice/)
+- [Practice 1](https://hirakana.com/)
+- [Practice 2](https://readkana.com/)
+- [Writings practice](https://characterpractice.com/japanese/katakana/?cat=base&row=6&char=3)
 
 > Kanji
 
-- [x] [Kanji](https://www.michikanji.com/kanji)
-
+- [Kanji](https://www.michikanji.com/kanji)
 
 
 > Books
 
-- [ ] [free books](https://tadoku.org/japanese/en/free-books-en/)
-- [x] [free grammer Book](https://nihongolibrary.com/home/free-japanese-study-materials/)
-- [x] [books](https://mega.nz/folder/cVgyTSBC#FPmBX5DW7yW4RXBhXR_HOg)
+- [free books](https://tadoku.org/japanese/en/free-books-en/)
+- [free grammer Book](https://nihongolibrary.com/home/free-japanese-study-materials/)
+- [books](https://mega.nz/folder/cVgyTSBC#FPmBX5DW7yW4RXBhXR_HOg)
 
 > Other resource 
 
-- [ ] [links](https://www.reddit.com/r/LetsStudyJapanese/comments/dlajm3/books/)
-- [x] [jlpt N5 N4 N3 N2 N1 . Voc](https://www.jlptmatome.com/)
-- [ ] [Grammer . Kanji . example](https://a1.marugotoweb.jp/en/)
+- [links](https://www.reddit.com/r/LetsStudyJapanese/comments/dlajm3/books/)
+- [jlpt N5 N4 N3 N2 N1 . Voc](https://www.jlptmatome.com/)
+- [Grammer . Kanji . example](https://a1.marugotoweb.jp/en/)
+- [grammar ](https://jlptsensei.com/jlpt-n5-grammar-list/)
+- [jlpt quizz](https://japanesequizzes.com/)
+- [kanji quizz](https://www.michikanji.com/kanji/n5/quiz)
+- [5000 frequency list](https://www.kanshudo.com/collections/routledge) , [1](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Japanese) , [2](https://preply.com/en/blog/basic-japanese-words/?campaignid=15011167576&network=g&adgroupid=126543865137&keyword=&matchtype=a&creative=753371200275&targetid=kwl-3500001&placement=&loc_physical_ms=9153786&device=c&adgroupintent=class&utm_term=&hsa_kw=) , 
+
+
+
+
+
 
 
 
